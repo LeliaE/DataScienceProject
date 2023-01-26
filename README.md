@@ -10,3 +10,5 @@ Majka, P., Bai, S., Bakola, S., Bednarek, S., Chan, J. M., Jermakow, N., ... & R
 Majka P., Chaplin T.A., Yu, H.-H., Tolpygo A., Mitra P.P., Wójcik D.K., & Rosa M.G.P. (2016). Towards a comprehensive atlas of cortical connections in a primate brain: Mapping tracer injection studies of the common marmoset into a reference digital template. Journal of Comparative Neurology, 524(11), 2161–2181. http://doi.org/10.1002/cne.24023
 Liu, C., Ye, F.Q., Newman, J.D. et al. A resource for the detailed 3D mapping of white matter pathways in the marmoset brain. Nat Neurosci 23, 271–280 (2020). https://doi.org/10.1038/s41593-019-0575-0
 
+#### NOTE
+Due to transparent format of the figures I advise against using darkmode.
